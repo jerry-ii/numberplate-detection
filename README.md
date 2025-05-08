@@ -7,8 +7,8 @@ and optical character recognition (OCR) to extract the alphanumeric characters f
 automated toll collection, parking management, and law enforcement.
 
 TEAM MEMBERS:
-   JERRY JOHN
-   JOBIN BABU
-   ERVIN JOSEPH
-   REUBEAN PHILIP ABHIRAM 
+   JERRY JOHN,
+   JOBIN BABU,
+   ERVIN JOSEPH,
+   REUBEAN PHILIP ABHIRAM ,
    STEPHIN SUBY
